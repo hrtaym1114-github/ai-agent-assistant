@@ -49,7 +49,7 @@ claude
 ### ガイドを実行
 
 ```
-/ai-adoption-guide
+/ai
 ```
 
 質問に答えるだけで、あなたに合った活用方法を提案＆構築します。
@@ -62,7 +62,7 @@ ai-agent-assistant/
 ├── CLAUDE.md                  # AIアシスタント指示書（自動読込）
 ├── .claude/
 │   ├── commands/
-│   │   └── ai-adoption-guide.md  # 対話ガイドスキル
+│   │   └── ai.md                 # 対話ガイドスキル（/ai で実行）
 │   └── settings.json          # セキュリティ設定（Level 2）
 ├── docs/
 │   ├── getting-started.md     # セットアップガイド
@@ -124,7 +124,7 @@ Month 2+: P4（学習）+ P6（記録）→ パーソナライズ
 cd ai-agent-assistant
 claude
 # Claude Code起動後に以下を実行
-/ai-adoption-guide
+/ai
 ```
 
 ## 実績のある事例

@@ -7,7 +7,7 @@
 
 ## Quick Start
 
-1. `/ai-adoption-guide` を実行 — 対話ガイドが始まります
+1. `/ai` を実行 — 対話ガイドが始まります
 2. 質問に答えるだけで、あなたに合った活用方法を提案
 3. その場でMVP（最小実装）を構築
 
@@ -15,12 +15,12 @@
 
 | コマンド | 説明 |
 |---------|------|
-| `/ai-adoption-guide` | フルガイドセッション（発見→提案→体験） |
-| `/ai-adoption-guide --discover` | 提案まで（情報収集のみ） |
-| `/ai-adoption-guide --build P1` | CLAUDE.md構築 |
-| `/ai-adoption-guide --build P5` | ガバナンス設定構築 |
-| `/ai-adoption-guide --build P7` | テンプレート構築 |
-| `/ai-adoption-guide --build P8` | ルーティン自動化構築 |
+| `/ai` | フルガイドセッション（発見→提案→体験） |
+| `/ai --discover` | 提案まで（情報収集のみ） |
+| `/ai --build P1` | CLAUDE.md構築 |
+| `/ai --build P5` | ガバナンス設定構築 |
+| `/ai --build P7` | テンプレート構築 |
+| `/ai --build P8` | ルーティン自動化構築 |
 
 ## 8つの活用パターン
 
