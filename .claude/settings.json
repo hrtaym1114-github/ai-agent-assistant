@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "deny": [
+      "Bash(rm *)", "Bash(rm -r*)", "Bash(rm -f*)", "Bash(rm -rf*)",
+      "Bash(rmdir *)", "Bash(del *)", "Bash(del /s*)",
+      "Bash(rd *)", "Bash(rd /s*)",
+      "Bash(unlink *)", "Bash(Remove-Item*)",
+      "Bash(*| rm *)", "Bash(*&& rm *)", "Bash(*; rm *)",
+      "Bash(git push --force*)", "Bash(git push -f*)",
+      "Bash(git reset --hard*)", "Bash(git clean -f*)",
+      "Bash(git checkout -- *)", "Bash(git branch -D*)",
+      "Bash(curl -X POST*)", "Bash(curl -X PUT*)", "Bash(curl -X DELETE*)",
+      "Bash(wget --post*)"
+    ]
+  }
+}
