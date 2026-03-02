@@ -27,7 +27,7 @@ C:\work\ai-agent-assistant\
 #### 方法B: Git Cloneから
 
 ```bash
-git clone https://github.com/hrtaym1114-github/ai-agent-assistant.git
+git clone <リポジトリURL>
 cd ai-agent-assistant
 ```
 
