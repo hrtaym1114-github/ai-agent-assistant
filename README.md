@@ -41,7 +41,7 @@ claude
 #### B. Git Clone（GitHub経由）
 
 ```bash
-git clone https://github.com/hrtaym1114-github/ai-agent-assistant.git
+git clone <リポジトリURL>
 cd ai-agent-assistant
 claude
 ```
@@ -139,6 +139,3 @@ claude
 
 MIT
 
-## Author
-
-amu_lab
